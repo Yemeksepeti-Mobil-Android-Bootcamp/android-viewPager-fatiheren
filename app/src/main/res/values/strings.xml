@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnBoardingViewPager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_onboarding_1">Welcome to Onboarding App !</string>
+    <string name="description_onboarding_1"><![CDATA[Here is an open-source project which shows sweet &amp; original onboarding ViewPagers that follows Material Design Guidelines]]></string>
+</resources>
