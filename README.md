@@ -6,6 +6,7 @@
 - [x] Lottie Usage
 - [x] Custom Animation Usage
 - [x] View Binding
+- [x] SSP - a scalable size unit for texts
 
 ------
 
